@@ -6,7 +6,7 @@
   <link href="https://www.libmbr.com/atom.xml" rel="self"/>
   
   <link href="https://www.libmbr.com/"/>
-  <updated>2025-08-10T16:00:00.000Z</updated>
+  <updated>2025-09-21T14:25:00.000Z</updated>
   <id>https://www.libmbr.com/</id>
   
   <author>
@@ -17,13 +17,115 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>纸质铁路报销凭证</title>
+    <link href="https://www.libmbr.com/archives/513/"/>
+    <id>https://www.libmbr.com/archives/513/</id>
+    <published>2025-09-21T13:02:00.000Z</published>
+    <updated>2025-09-21T14:25:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>除跨境和非互联网售票区段，2025 年 10 月及之后发车的 CR 车次将不再能打印纸质报销凭证。再过个几年、十几年，也许就会有人完全没见过纸质的车票和报销凭证了  </p><p>在仍然能打印报销凭证的最后几天里，我用这篇文章讲一下纸质票和报销凭证的细节，供后人考古研究吧。</p><span id="more"></span><h2 id="车票正面信息"><a href="#车票正面信息" class="headerlink" title="车票正面信息"></a>车票正面信息</h2><p>先放一张车票的图片再讲。</p><p><img src="https://lfs.libmbr.com/assets/2025/09/21/be8867d3-e82a-480c-8484-aff290cda116.webp" alt="中国铁路车票6437次202509"></p><p>按从上到下，从左到右的顺序来：</p><p>第一行：  </p><ul><li><p><strong>票号</strong><br>为红色字体，其他均为黑色字体<br>票号是自增的，长度不固定，开头可能会存在字母。</p></li><li><p><strong>检票口</strong><br>不一定存在：距离发车时间较远，打印车票或报销凭证不会显示检票口。登机牌其实也是这样的</p></li></ul><p>第二行：</p><ul><li><strong>出发站</strong><br>下面会用小字写车站英文名（境内大多数使用拼音）</li><li><strong>车次号</strong><br>纯数字：普客；K：快速；T：特快；Z：直达特快；C：城际；D：动车；G：高铁动车；S：市域&#x2F;郊；Y：旅游</li><li><strong>到达站</strong></li></ul><p>第三行：</p><ul><li><strong>发车时间</strong><br>列车从出发站开出的日期时间</li><li><strong>席位</strong><br>可能会出现：无座、不对号入座</li></ul><p>第四行：</p><ul><li><strong>购票价格</strong><br>特殊情况（如中转签证车票）可以达到 0 元</li><li><strong>购票标记</strong><ul><li><strong>网</strong>：网上购票，线下取票。（仅适用于车票）</li><li><strong>现</strong>：使用现金支付。（仅适用于车票）</li><li><strong>支</strong>：使用支付宝支付。（仅适用于车票）</li><li><strong>孩</strong>：儿童票。</li><li><strong>惠</strong>：优惠票价。</li></ul></li><li><strong>席别</strong></li></ul><p>第五行为票类型，一般会出现：</p><ul><li><strong>限乘当日当次车</strong><br>这是一张车票。</li><li><strong>退票费</strong><br>这是退票报销凭证。</li><li><strong>（空）</strong><br>这是报销凭证、中转签证或通票。</li></ul><p>第六行是通票信息或报销凭证标记：</p><ul><li><strong>仅供报销使用</strong><br>这是一张报销凭证。</li></ul><p>第七行为购票人信息，非实名制车票此行留空：</p><ul><li><p><strong>证件号</strong><br>购票证件为居民身份证时，11-14 位会被替换为 *<br>使用其他购票证件，后两位替换为 *</p></li><li><p><strong>姓名</strong></p></li></ul><p>第七行结束后，会有一段文字信息，目前的多为：</p><ul><li><strong>报销凭证 遗失不补</strong><br><strong>退票改签请交会车站</strong><br>即使打印的是车票，而不是报销凭证，仍有可能这样显示。  </li><li><strong>温馨提示：本次列车途经琼州海峡，特殊季节遇台风等恶劣天气，轮渡可能停航，敬请关注天气预报。</strong><br>特殊提示可能不会加方框</li><li><strong>买票请到12306 发货请到95306</strong><br><strong>中国铁路祝您路途愉快</strong><br>经典的车票文字，目前已经极为少见</li></ul><p>第六、七行右侧会有一个二维码，内容为一段纯数字，使用微信或 12306 App 扫码可以查看车票信息，具体编码机制未知。</p><p>最后一行：</p><ul><li><strong>完整车票号</strong><ul><li>0-5 位：车票&#x2F;报销凭证的打印车站编号<br><a href="https://www.jprailfan.com/tools/stat/index.php">查询工具</a></li><li>11-14 位：购票日期</li><li>15+ 位：同左上票号</li></ul></li><li><strong>证件类型</strong><ul><li>可能不存在</li><li>HZ：护照，类型为护照时后面可能加入三位地区码</li><li>JM：居民身份证</li></ul></li></ul><h2 id="车票背面信息"><a href="#车票背面信息" class="headerlink" title="车票背面信息"></a>车票背面信息</h2><p>车票的背面为<strong>乘车须知</strong>或<strong>报销凭证使用须知</strong>。</p><p>（图后续补）</p><p>部分红色车票背面下方会有可见磁条。  </p><h2 id="车票颜色"><a href="#车票颜色" class="headerlink" title="车票颜色"></a>车票颜色</h2><p>有红色和蓝色两种。蓝色车票本身质量更好、厚度更高，但车票上文字可能会发生褪色，而红色车票不易褪色。  </p><p>红色车票一般上下切割，而蓝色车票左右切割，且有固定切割点。  </p><p>目前绝大多数车站的可打印车票&#x2F;报销凭证均为蓝色。  </p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;除跨境和非互联网售票区段，2025 年 10 月及之后发车的 CR 车次将不再能打印纸质报销凭证。再过个几年、十几年，也许就会有人完全没见过纸质的车票和报销凭证了  &lt;/p&gt;
+&lt;p&gt;在仍然能打印报销凭证的最后几天里，我用这篇文章讲一下纸质票和报销凭证的细节，供后人考古研究吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="日常" scheme="https://www.libmbr.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="铁路" scheme="https://www.libmbr.com/tags/%E9%93%81%E8%B7%AF/"/>
+    
+    <category term="中国铁路" scheme="https://www.libmbr.com/tags/%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF/"/>
+    
+    <category term="火车" scheme="https://www.libmbr.com/tags/%E7%81%AB%E8%BD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>月食观察 20250908</title>
+    <link href="https://www.libmbr.com/archives/512/"/>
+    <id>https://www.libmbr.com/archives/512/</id>
+    <published>2025-09-08T15:26:00.000Z</published>
+    <updated>2025-09-08T15:26:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一次观测月全食。没啥好的设备，直接用 iPhone 拍几张。</p><span id="more"></span><p>貌似前几年疫情时也是有一次月食的，不过没去看，这次刚好用空就出门看了，不知道下次能看到会是什么时候。  </p><p>下次再看也许会用更好的设备拍摄吧（  </p><p>天气还可以，月亮基本是目视不可见，但是手机拍照就能找到。</p><h2 id="AM-1-36"><a href="#AM-1-36" class="headerlink" title="AM 1:36"></a>AM 1:36</h2><ul><li><p>1x<br><img src="https://lfs.libmbr.com/assets/2025/09/08/cf9d092b-3c5a-4174-894e-9fafb93e4d73.webp" alt="月食观察20250908-1x"></p></li><li><p>3x<br><img src="https://lfs.libmbr.com/assets/2025/09/08/9e8f088e-82bc-47d7-9b0b-49d0067f18e9.webp" alt="月食观察20250908-3x"></p></li></ul><h2 id="AM-2-21"><a href="#AM-2-21" class="headerlink" title="AM 2:21"></a>AM 2:21</h2><ul><li><p>3x<br><img src="https://lfs.libmbr.com/assets/2025/09/08/c627863a-ab65-4388-a733-d91ddd37524a.webp" alt="月食观察20250908-3x2"></p></li><li><p>3x, 换观测位置<br><img src="https://lfs.libmbr.com/assets/2025/09/08/84e64c69-73c7-47df-a18d-56e3eae9293e.webp" alt="月食观察20250908-3x3"></p></li></ul><h2 id="表情包"><a href="#表情包" class="headerlink" title="表情包"></a>表情包</h2><p><img src="https://lfs.libmbr.com/assets/2025/09/08/5a7219a5-2241-4499-8dcf-347c337ab2e0.webp" alt="月食观察表情包"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;第一次观测月全食。没啥好的设备，直接用 iPhone 拍几张。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="日常" scheme="https://www.libmbr.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="月食" scheme="https://www.libmbr.com/tags/%E6%9C%88%E9%A3%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>城市道路观察 Ⅰ 非机动车道</title>
+    <link href="https://www.libmbr.com/archives/511/"/>
+    <id>https://www.libmbr.com/archives/511/</id>
+    <published>2025-09-01T05:32:00.000Z</published>
+    <updated>2025-09-04T12:51:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>本来以为公路设计是全国统一的，多去了几个城市后发现每个地方都不一样。这个城市道路观察系列就收集下见过的不同道路设计。  </p><p>本篇收集不同的非机动车道（自行车道）。</p><span id="more"></span><h2 id="北京"><a href="#北京" class="headerlink" title="北京"></a>北京</h2><p>北京市内非机动车道均位于辅路。目前见过的大多都是设计在机动车道两侧，与机动车道同高，柏油路，高度低于旁边的人行道，宽度一般和机动车道等宽。  </p><p>除高速、快速公路，几乎所有公路路段均有非机动车道配置，包括首都放射状国道的北京段。</p><p>部分路段非机动车道、非机动车转弯路径地面刷红色油漆。</p><p>非机动车道不允许在人行道上骑行（但是可以推着车子），<del>可能会收到罚单的</del>。</p><ul><li>万泉庄桥（海淀区、苏州桥地铁站北）<br><img src="https://lfs.libmbr.com/assets/2025/09/01/d81d8a2f-ebab-4cfa-89bc-c490963afe6e.webp" alt="万泉庄桥"></li></ul><p>长安街等部分道路，非机动车道两侧或靠近人行道一侧加装护栏</p><ul><li>复兴门内大街（西城区、太平桥地铁站）<br>靠近人行道一侧设有护栏<br><img src="https://lfs.libmbr.com/assets/2025/09/01/3e62d97b-1143-4f89-b59e-89c3d3c943ea.webp" alt="复兴门内大街太平桥大街非机动车道"></li></ul><h2 id="天津"><a href="#天津" class="headerlink" title="天津"></a>天津</h2><p>与北京类似：非机动车道位于辅路。大多设计在机动车道两侧，与机动车道同高，柏油路，高度低于旁边的人行道。  </p><p>少部分路段（如团泊大道静海段），高度高于机动车道，和旁边的人行道平齐，其他无区别。</p><p>部分路段在非机动车道和机动车道中间设护栏、绿化带或公交站。</p><p>道路宽度普遍和机动车道相同或者更宽。  </p><p>原则上是非机动车道不允许在人行道上骑行，但是从来没见过有人管这个。</p><ul><li><p>团泊大道（静海区、团泊健康城地铁站）<br>靠近机动车道一侧设有绿化、和人行道平齐<br><img src="https://lfs.libmbr.com/assets/2025/09/01/4da50077-d6f2-446c-b7ad-e5070e478ffc.webp" alt="团泊大道静海"></p></li><li><p>工一号路（西青区、大学城一号路、大学城地铁站南）<br>更宽的非机动车道，宽度大约允许两辆汽车并排<br><img src="https://lfs.libmbr.com/assets/2025/09/01/429d55f3-5049-493a-a271-18d4095c0a05.webp" alt="工一号路"></p></li><li><p>围堤道（河西区、佟楼地铁站）<br><img src="https://lfs.libmbr.com/assets/2025/09/01/43c54326-c79f-4191-9d0d-c784e16f2657.webp" alt="围堤道"></p></li></ul><h2 id="上海"><a href="#上海" class="headerlink" title="上海"></a>上海</h2><p>与北京&#x2F;天津类似：非机动车道位于辅路。大多设计在机动车道两侧，与机动车道同高，柏油路，高度低于旁边的人行道。 </p><p>道路宽度普遍比机动车道更窄。</p><ul><li>凯旋路（长宁区、虹桥路地铁站）<br><img src="https://lfs.libmbr.com/assets/2025/09/01/7288e019-e747-409d-89cf-6c509aca01b9.webp" alt="凯旋路"></li></ul><h2 id="沈阳"><a href="#沈阳" class="headerlink" title="沈阳"></a>沈阳</h2><p>非机动车道通常建设在人行道旁，与人行道平齐，高于机动车道，且部分路段和人行道材质相同。</p><p>普遍和人行道不设隔离。部分路段靠近机动车道一侧有绿化。</p><ul><li><p>乐山西路（于洪区）<br><img src="https://lfs.libmbr.com/assets/2025/09/01/b611497e-7cbe-46a3-ad52-ddf72d908024.webp" alt="乐山西路"></p></li><li><p>青年大街（和平区、市图书馆地铁站）<br><img src="https://lfs.libmbr.com/assets/2025/09/01/c860414c-9be8-409c-8064-b38f34228471.webp" alt="青年大街"></p></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;本来以为公路设计是全国统一的，多去了几个城市后发现每个地方都不一样。这个城市道路观察系列就收集下见过的不同道路设计。  &lt;/p&gt;
+&lt;p&gt;本篇收集不同的非机动车道（自行车道）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="日常" scheme="https://www.libmbr.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="公路" scheme="https://www.libmbr.com/tags/%E5%85%AC%E8%B7%AF/"/>
+    
+    <category term="交通" scheme="https://www.libmbr.com/tags/%E4%BA%A4%E9%80%9A/"/>
+    
+    <category term="骑行" scheme="https://www.libmbr.com/tags/%E9%AA%91%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2025 BW、AOSCC 和沈阳行</title>
+    <link href="https://www.libmbr.com/archives/510/"/>
+    <id>https://www.libmbr.com/archives/510/</id>
+    <published>2025-08-20T05:00:00.000Z</published>
+    <updated>2025-09-01T05:23:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>写点东西随便记录下今年的暑假，感觉一切都像一场梦。</p><span id="more"></span><h2 id="去-BW-的路上"><a href="#去-BW-的路上" class="headerlink" title="去 BW 的路上"></a>去 BW 的路上</h2><p>是第一次去 BW，本来是因为朋友去想跟着<del>，但是朋友没抢到票</del></p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/d54fd724-5f22-44ee-8352-04ca0c6384e0.webp" alt="放那么多票，你卖谁了"></p><p>主要基于时间考虑，选择飞 PEK - PVG</p><h3 id="北京"><a href="#北京" class="headerlink" title="北京"></a>北京</h3><p>第一次去 PEK 和 PVG，也是坐上首都机场线了，车迷去坐肯定是要先拍车的。这次是从东直门进站的，进付费区下楼后直接就是机场方向的站台（北新桥&#x2F;城区方向过不去），对于这种一票制的线路貌似也很合理。</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/8d0c3997-5bd5-4527-a5db-2a33bc43d476.webp" alt="东直门进站检票口"></p><p>进付费区下楼后直接上车，列车在每站大概停不到一分钟，人比想象中还是多不少的，到三元桥的时候座位已经全满了。</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/3536aa17-0e07-414e-9b5c-2852a0d0689e.webp" alt="首都机场线T3站"></p><p>地铁到机场后第一个感觉是挺凉快的，空调给的挺足，在此批评一下北京隔壁某个直辖市的机场，冬暖夏暖而且越往上走越热。</p><p>算上延误，差不多是提前5个小时就到机场了，所以打算是直接在机场里吃饭。机器上办完托运去安检。  </p><p>3C 新规出台后，安检前面会有个查充电宝的地方，有 3C 的充电宝会给你发个袋子，其他貌似就没什么特殊的了</p><p>首都机场 T3 由三部分组成，T3C、T3D、T3E，中间有小火车连接。本次乘坐的航班虽然在 T3C 登机，但还是去坐小火车看 T3D 楼了<del>（只是为了拍车）</del></p><p>T3C -&gt; T3D -&gt; T3E 地上都有很明显的标识，一般不会走错。反过来 T3E -&gt; T3D -&gt; T3C 基本没有标识。</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/7bc1e2b5-14fa-4c44-bb4e-0ddd94a20bf9.webp" alt="首都机场线APM"></p><p>然后机场就没什么好讲的了，登机。航班有免费网络、有餐食。</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/57fe92e1-a888-41d7-bd40-fe8d0703f656.webp" alt="机上wifi"></p><ul><li>AS4847 北京电信</li><li>36.110.0.0&#x2F;17</li><li>IPv4 Only</li></ul><p>聊天刷图什么都还可以，看视频就算了。</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/56122f3e-6400-4b92-bcd3-04564318aec9.webp" alt="餐食"></p><p>餐食比想象中要好点。</p><h3 id="上海"><a href="#上海" class="headerlink" title="上海"></a>上海</h3><p>落的是 PVG S2，出机场用了半个小时。<del>浦东卫星厅没我想的大啊</del>，但是地铁挺酷的，没有座位，但是报站语音有“请把座位留给有需要的旅客”。</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/7c05d2cb-0062-4f89-a012-bbd11d11ce8d.webp" alt="A359 PVG S2"></p><p>BW前一天选了个离机厅近的酒店，酒店房间到机厅路程不到1分钟。凌晨1点还有十几个人大b队，怀疑都是去 bw 的 wmc（</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/e77d6155-5ecc-49d1-9297-6d46bf44f2f7.webp" alt="嘉闵高架路"></p><p>上海市区的高架感觉很震撼，可能是因为北京天津市区里都不怎么见得到绿色的路牌。</p><h2 id="BilibiliWorld-2025"><a href="#BilibiliWorld-2025" class="headerlink" title="BilibiliWorld 2025"></a>BilibiliWorld 2025</h2><p>7点入场，排了半个小时队，场馆里空调开的还可以。</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/fe92e040-c2be-40ff-ac6b-1727ad0aac63.webp" alt="禁止夜排"></p><p>禁止夜排当然指的是不能在场馆里排。去外面桥上排当然不管的哈。</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/5b4b08b7-6717-4a6d-ac45-d536ca5ae6fb.webp" alt="场馆里挤满了人"></p><p>人真的很多（</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/ffa2a817-ca72-4eb9-8f14-f9a084de17c1.webp" alt="绿猫"></p><p>绿猫可爱</p><p><img src="https://lfs.libmbr.com/assets/2025/08/20/15d13dd5-3856-41ea-9c55-9f88a5e3ba04.webp" alt="战利品"></p><p>最后一整天拿了这些东西（图片没拍全x</p><p>算是第一次逛漫展吧（大概，要是写心得的话还真不知道写什么x</p><h2 id="1462-次列车"><a href="#1462-次列车" class="headerlink" title="1462 次列车"></a>1462 次列车</h2><p>返程坐的是 1462，硬座，返程当天才知道有别的朋友坐的是同一班车。</p><p>上海发往北京的 1462 硬座大部分人都在中间下，很少有人坐到北京。或者说跨局旅客少，基本都是上海局、北京局内上下。</p><hr><h2 id="1461-次列车"><a href="#1461-次列车" class="headerlink" title="1461 次列车"></a>1461 次列车</h2><p>逛完 BW 回家，一周后继续去参加 AOSCC，选择 1461 次列车，硬座。</p><p>与 1462 不同的是，1461 有不少人从北京直接坐到上海，跨局旅客明显比 1462 多。</p><p>有其他 3 位朋友也搭乘 1461 次，都是去 AOSCC 的。</p><h2 id="AOSCC-2025-前一天"><a href="#AOSCC-2025-前一天" class="headerlink" title="AOSCC 2025 前一天"></a>AOSCC 2025 前一天</h2><p>前一天聚餐聊天，酒店里有位群友提了个点子，明天用舞萌 DX 的二维码签到，于是有另一个人直接做了个 <a href="https://sparrowhe.github.io/xxime-wrapper/">舞萌 DX 二维码生成工具</a>，可以把任何二维码塞进舞萌 DX 登录二维码。</p><p>玩舞萌玩的（</p><h2 id="AOSCC-2025-DAY-I"><a href="#AOSCC-2025-DAY-I" class="headerlink" title="AOSCC 2025 DAY I"></a>AOSCC 2025 DAY I</h2><p>非常好无料（</p><p><img src="https://lfs.libmbr.com/assets/2025/09/01/ea97c22b-82a8-49dd-8693-9f067b54022d.webp" alt="LS3A6000 AOSCC"></p><p>非常好签名墙————<br>画了个 NixOS 上去，然后群友在上面画了个苯环，<del>然后还有群友在旁边画了个<a href="https://zh.wikipedia.org/wiki/%E9%9B%8C%E4%BA%8C%E9%86%87">C₁₈H₂₄O₂</a></del></p><p><img src="https://lfs.libmbr.com/assets/2025/09/01/b0fb10ce-1b6d-4077-8892-fb579fc22587.webp" alt="签名墙"></p><h2 id="AOSCC-2025-DAY-II"><a href="#AOSCC-2025-DAY-II" class="headerlink" title="AOSCC 2025 DAY II"></a>AOSCC 2025 DAY II</h2><p>不知道写点啥了，发张绿猫（  </p><p><img src="https://lfs.libmbr.com/assets/2025/09/01/94a1442e-e7ce-4433-a747-a33eb4c35c36.webp" alt="绿猫"></p><p>sbchild 的日志打印机（</p><p><img src="https://lfs.libmbr.com/assets/2025/09/01/0ec46f71-f4b4-4500-9a3e-e11489bfe56b.webp" alt="打印日志"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;写点东西随便记录下今年的暑假，感觉一切都像一场梦。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="日常" scheme="https://www.libmbr.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="BiliBili" scheme="https://www.libmbr.com/tags/BiliBili/"/>
+    
+    <category term="漫展" scheme="https://www.libmbr.com/tags/%E6%BC%AB%E5%B1%95/"/>
+    
+    <category term="AOSCC" scheme="https://www.libmbr.com/tags/AOSCC/"/>
+    
+    <category term="开源社区" scheme="https://www.libmbr.com/tags/%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA/"/>
+    
+    <category term="信创" scheme="https://www.libmbr.com/tags/%E4%BF%A1%E5%88%9B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Proxmox VE 9 升级</title>
     <link href="https://www.libmbr.com/archives/509/"/>
     <id>https://www.libmbr.com/archives/509/</id>
     <published>2025-08-10T16:00:00.000Z</published>
-    <updated>2025-08-10T16:00:00.000Z</updated>
+    <updated>2025-09-08T13:14:00.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Proxmox VE 9 和 Debian 13 正式发布。本文主要记录更新时、更新后可能遇到的问题和解决方案。</p><span id="more"></span><h2 id="更新教程"><a href="#更新教程" class="headerlink" title="更新教程"></a>更新教程</h2><p>按官网提供的教程完成即可：<br><a href="https://pve.proxmox.com/wiki/Upgrade_from_8_to_9">https://pve.proxmox.com/wiki/Upgrade_from_8_to_9</a></p><h2 id="新特性"><a href="#新特性" class="headerlink" title="新特性"></a>新特性</h2><ul><li>Debian 13</li><li>统计数据：新增了 ZFS ARC、IO 压力、内存压力等统计项</li><li><del>其他的还没发现</del></li><li>Release Note: <a href="https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0">https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0</a></li></ul><h2 id="升级时注意"><a href="#升级时注意" class="headerlink" title="升级时注意"></a>升级时注意</h2><ul><li>不推荐无人值守更新，升级过程中可能会中断互联网连接</li><li>ssh 更新完成前可能无法再次连接</li><li><code>/etc/sysctl.conf</code> 被弃用，升级后该文件自动备份为 <code>/etc/sysctl.conf.dpkg-bak</code>，规则需手动移动到 <code>/etc/sysctl.d/</code> 才能重新生效<ul><li><code>cp /etc/sysctl.conf.dpkg-bak /etc/sysctl.d/99-previous.conf</code></li></ul></li></ul><h2 id="已知问题"><a href="#已知问题" class="headerlink" title="已知问题"></a>已知问题</h2><ul><li>宿主机上的 Docker 可能由于 AppArmor 策略无法正常工作</li><li>暂时还没发现别的，发现了会补充在这里</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>Proxmox VE 9 和 Debian 13 正式发布。本文主要记录更新时、更新后可能遇到的问题和解决方案。</p><span id="more"></span><h2 id="更新教程"><a href="#更新教程" class="headerlink" title="更新教程"></a>更新教程</h2><p>按官网提供的教程完成即可：<br><a href="https://pve.proxmox.com/wiki/Upgrade_from_8_to_9">https://pve.proxmox.com/wiki/Upgrade_from_8_to_9</a></p><h2 id="新特性"><a href="#新特性" class="headerlink" title="新特性"></a>新特性</h2><ul><li>Debian 13</li><li>统计数据：新增了几个统计项，增加了统计频率<ul><li>宿主机：ZFS ARC、IO 压力、内存压力</li><li>VM：IO 压力、内存压力、占宿主机内存（推荐开启 balloon，不兼容 HugePages）</li><li>LXC：IO 压力、内存压力</li></ul></li><li>大幅更改了移动端 WebUI<br><img src="https://lfs.libmbr.com/assets/2025/09/03/afd86bdd-697f-4ce6-85cd-f264231f5271.webp" alt="PVE9 WebUI Mobile"></li><li>引入新的 SR-IOV 网络接口命名规则</li><li><del>其他的还没发现</del></li><li>Release Note: <a href="https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0">https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0</a></li></ul><h2 id="升级时注意"><a href="#升级时注意" class="headerlink" title="升级时注意"></a>升级时注意</h2><ul><li>不推荐无人值守更新，升级过程中可能会中断互联网连接</li><li>ssh 更新完成前可能无法再次连接</li><li><code>/etc/sysctl.conf</code> 被弃用，升级后该文件自动备份为 <code>/etc/sysctl.conf.dpkg-bak</code>，规则需手动移动到 <code>/etc/sysctl.d/</code> 才能重新生效<ul><li><code>cp /etc/sysctl.conf.dpkg-bak /etc/sysctl.d/99-previous.conf</code></li></ul></li><li>建议在更新前对系统盘快照处理，更新后重启宿主机</li></ul><h2 id="已知问题"><a href="#已知问题" class="headerlink" title="已知问题"></a>已知问题</h2><ul><li>宿主机上的 Docker 可能由于 AppArmor 策略无法正常工作</li><li>Debian 13 LXC 无法启动（已修复，影响版本：<code>lxc-pve/stable 6.0.4-*</code>, <code>pve-container/stable 6.0.9</code>）</li><li>如果宿主机在更新后未重启，备份功能可能出现故障，针对 Windows VM 的备份不可靠。</li><li>如果升级前通过 udev 规则手动设置了 SR-IOV 的网卡名，升级后可能会被默认规则覆盖</li><li>暂时还没发现别的，发现了会补充在这里</li></ul>]]></content>
     
     
     <summary type="html">&lt;p&gt;Proxmox VE 9 和 Debian 13 正式发布。本文主要记录更新时、更新后可能遇到的问题和解决方案。&lt;/p&gt;</summary>
@@ -116,7 +218,7 @@
     <published>2025-05-16T15:36:02.000Z</published>
     <updated>2025-05-16T15:36:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Proxmox 默认配置中无法动态获取 IPv6 问题的原因分析和解决方案</p><span id="more"></span><div class="alert info"><p>此文章是对 <a href="/archives/418/">PVE 主机及 LXC 容器开启 DHCPv6 客户端教程</a> 的补充，本篇单独讲<strong>有状态</strong> DHCPv6 的配置</p></div><p>在 Proxmox 系列系统（除了 Proxmox VE，还包括 Backup Server 和 Mail Gateway）的默认配置中，通常按照上方蓝字教程的方法配置好 sysctl 规则后，LXC 就能正常的、同时通过无状态和有状态两种方式获取 IPv6 地址。而宿主机可能会存在只有无状态地址，没有有状态地址的问题。  </p><p>不想看原因分析，可以直接点击<a href="#post-up-hooks">这里</a>看解决方案。</p><h2 id="有状态地址"><a href="#有状态地址" class="headerlink" title="有状态地址"></a>有状态地址</h2><p>在 IPv6 配置中，无状态（SLAAC）一般指的是路由器下放一个前缀，后缀由机器（客户端）配置；而有状态则是地址全部由路由器配置。大多数路由器同时开启有状态和无状态，客户端可以获得下面几个地址：  </p><ul><li><code>2400:1234:5678:abcd:1145:14ff:fe19:1981</code></li><li><code>2400:1234:5678:abcd::114</code><br>其中 <code>2400:1234:5678:abcd::</code> 是前缀，长度是 64 个二进制位（16 个十六进制位），前缀后面的部分则称为后缀。<br>一般长得上面这样的，比较长的地址，都是通过 SLAAC 获取的，后缀一般会使用 MAC 生成（EUI-64 算法）或者完全随机，而下面这个短的，一般通过有状态 DHCPv6 获取。<br>（当前，这只是大多数情况，SLAAC 的后缀完全由客户端决定，通过 SLAAC 获取的地址也可能很短；而有状态获取的后缀完全由路由器决定，通过有状态获取的地址也可能很长）</li></ul><p>如果你的 PVE 只有类似上面那样比较长的地址，而 LXC 和其他设备均能获取两种不同的地址，那一般就是说明宿主机没有获取到有状态的 IPv6 地址。  </p><p>明明其他设备都能正常获取，只有 PVE 宿主机（或者和几个少数 LXC）获取不到，为什么会这样呢？</p><h2 id="ifupdown2"><a href="#ifupdown2" class="headerlink" title="ifupdown2"></a>ifupdown2</h2><p>要想解释清楚这个问题，必须要扯几句 <code>ifupdown2</code>。</p><p><code>ifupdown2</code> 是 PVE 7.0 以来的默认网络管理器，主流发行版中只有 Proxmox 系默认使用。普通的 Debian 系统以及 PVE 老版本采用的是 <code>ifupdown</code>。  </p><p><code>ifupdown2</code> 普遍被认为是更现代的网络管理器，由 NVIDIA 开发，使用 Python 语言编写，加入了热重载接口等高级功能，支持更多配置选项，并且兼容传统的 <code>ifupdown</code> 配置。  </p><p><strong>优点讲完了，就要讲它的缺点了。</strong>  </p><p><code>ifupdown2</code> 目前有三个大问题：</p><ul><li>不支持同一个接口混合静态地址和 DHCP 配置  </li><li>如果一个接口 DHCP 没有响应，会一直等待，阻塞继续开机</li><li>DHCPv6 租约会在关机或重启后自动移除</li></ul><p>可以说是完全没认真去适配 DHCP 的网络环境。  </p><p>Proxmox 系统无法获取有状态地址，一般就是由于上面提到的第一个问题————<strong>不支持同一个接口混合静态地址和 DHCP 配置</strong>。</p><p>什么是“同一个接口混合静态地址和 DHCP 配置”？答：IPv4 使用静态地址，IPv6 使用自动获取。反过来也一样。  </p><p>Proxmox 系统的 IPv4 地址默认就是静态配置的，此时如果你配置了 DHCPv6：这段配置是完全无效的，会被忽略，而且不产生任何报错信息。  </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">iface vmbr0 inet manual<br>        address 172.20.2.1/22<br>        gateway 172.20.0.20<br>iface vmbr0 inet6 dhcp<br></code></pre></td></tr></table></figure><p>对于 <code>ifupdown2</code>，<strong>这是无效的配置！</strong>如果你按照上面的方法配置，最后只会获得静态的 IPv4 地址，IPv6 不可用。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">iface vmbr0 inet6 dhcp<br>iface vmbr0 inet manual<br>        address 172.20.2.1/22<br>        gateway 172.20.0.20<br></code></pre></td></tr></table></figure><p><strong>这也是无效的配置，</strong>如果你按照这个方法配置，最后只会获得 DHCP 得到的 IPv6 地址，IPv4 不可用。</p><p>而如果你使用 <code>ifupdown</code>，上面两个配置都是有效的，而且作用相同。这算是个 <code>ifupdown2</code> 的大 Bug，而且<a href="https://github.com/CumulusNetworks/ifupdown2/issues/174#issuecomment-796805369">开发者貌似目前完全不打算修复这个</a>（技术上重写很麻烦，但是开发者接受 PR）。</p><p>软件有问题，就只能由用户处理了。这里提供两种解，推荐选择第一种。</p><h2 id="post-up-hooks"><a href="#post-up-hooks" class="headerlink" title="post-up hooks"></a>post-up hooks</h2><p>这是第一种解法：添加 post-up hooks。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">iface vmbr0 inet manual<br>        address 172.20.2.1/22<br>        gateway 172.20.0.20<br>        post-up dhclient -6 -v -pf /run/dhclient6.$IFACE.pid -lf /var/lib/dhclient6/$IFACE.leases -I $IFACE<br></code></pre></td></tr></table></figure><p>照抄 post-up 这一行</p><h2 id="ifupdown"><a href="#ifupdown" class="headerlink" title="ifupdown"></a>ifupdown</h2><p>这是第二种解法：切换到 <code>ifupdown</code>。</p><div class="alert warning"><p>不推荐。仅当完全不需要 <code>ifupdown2</code> 的功能时才使用此方法。安装 <code>ifupdown</code> 会自动卸载 <code>ifupdown2</code></p></div><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">apt install ifupdown<br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>Proxmox 默认配置中无法动态获取 IPv6 问题的原因分析和解决方案</p><span id="more"></span><div class="alert info"><p>此文章是对 <a href="/archives/418/">PVE 主机及 LXC 容器开启 DHCPv6 客户端教程</a> 的补充，本篇单独讲<strong>有状态</strong> DHCPv6 的配置</p></div><p>在 Proxmox 系列系统（除了 Proxmox VE，还包括 Backup Server 和 Mail Gateway）的默认配置中，通常按照上方蓝字教程的方法配置好 sysctl 规则后，LXC 就能正常的、同时通过无状态和有状态两种方式获取 IPv6 地址。而宿主机可能会存在只有无状态地址，没有有状态地址的问题。  </p><p>不想看原因分析，可以直接点击<a href="#post-up-hooks">这里</a>看解决方案。</p><h2 id="有状态地址"><a href="#有状态地址" class="headerlink" title="有状态地址"></a>有状态地址</h2><p>在 IPv6 配置中，无状态（SLAAC）一般指的是路由器下放一个前缀，后缀由机器（客户端）配置；而有状态则是地址全部由路由器配置。大多数路由器同时开启有状态和无状态，客户端可以获得下面几个地址：  </p><ul><li><code>2400:1234:5678:abcd:1145:14ff:fe19:1981</code></li><li><code>2400:1234:5678:abcd::114</code><br>其中 <code>2400:1234:5678:abcd::</code> 是前缀，长度是 64 个二进制位（16 个十六进制位），前缀后面的部分则称为后缀。<br>一般长得上面这样的，比较长的地址，都是通过 SLAAC 获取的，后缀一般会使用 MAC 生成（EUI-64 算法）或者完全随机，而下面这个短的，一般通过有状态 DHCPv6 获取。<br>（当前，这只是大多数情况，SLAAC 的后缀完全由客户端决定，通过 SLAAC 获取的地址也可能很短；而有状态获取的后缀完全由路由器决定，通过有状态获取的地址也可能很长）</li></ul><p>如果你的 PVE 只有类似上面那样比较长的地址，而 LXC 和其他设备均能获取两种不同的地址，那一般就是说明宿主机没有获取到有状态的 IPv6 地址。  </p><p>明明其他设备都能正常获取，只有 PVE 宿主机（或者和几个少数 LXC）获取不到，为什么会这样呢？</p><h2 id="ifupdown2"><a href="#ifupdown2" class="headerlink" title="ifupdown2"></a>ifupdown2</h2><p>要想解释清楚这个问题，必须要扯几句 <code>ifupdown2</code>。</p><p><code>ifupdown2</code> 是 PVE 7.0 以来的默认网络管理器，主流发行版中只有 Proxmox 系默认使用。普通的 Debian 系统以及 PVE 老版本采用的是 <code>ifupdown</code>。  </p><p><code>ifupdown2</code> 普遍被认为是更现代的网络管理器，由 NVIDIA 开发，使用 Python 语言编写，加入了热重载接口等高级功能，支持更多配置选项，并且兼容传统的 <code>ifupdown</code> 配置。  </p><p><strong>优点讲完了，就要讲它的缺点了。</strong>  </p><p><code>ifupdown2</code> 目前有三个大问题：</p><ul><li>不支持同一个接口混合静态地址和 DHCP 配置  </li><li>如果一个接口 DHCP 没有响应，会一直等待，阻塞继续开机</li><li>DHCPv6 租约会在关机或重启后自动移除</li></ul><p>可以说是完全没认真去适配 DHCP 的网络环境。  </p><p>Proxmox 系统无法获取有状态地址，一般就是由于上面提到的第一个问题————<strong>不支持同一个接口混合静态地址和 DHCP 配置</strong>。</p><p>什么是“同一个接口混合静态地址和 DHCP 配置”？答：IPv4 使用静态地址，IPv6 使用自动获取。反过来也一样。  </p><p>Proxmox 系统的 IPv4 地址默认就是静态配置的，此时如果你配置了 DHCPv6：这段配置是完全无效的，会被忽略，而且不产生任何报错信息。  </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">iface vmbr0 inet manual<br>        address 172.20.2.1/22<br>        gateway 172.20.0.20<br>iface vmbr0 inet6 dhcp<br></code></pre></td></tr></table></figure><p>对于 <code>ifupdown2</code>，**这是无效的配置！**如果你按照上面的方法配置，最后只会获得静态的 IPv4 地址，IPv6 不可用。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">iface vmbr0 inet6 dhcp<br>iface vmbr0 inet manual<br>        address 172.20.2.1/22<br>        gateway 172.20.0.20<br></code></pre></td></tr></table></figure><p>**这也是无效的配置，**如果你按照这个方法配置，最后只会获得 DHCP 得到的 IPv6 地址，IPv4 不可用。</p><p>而如果你使用 <code>ifupdown</code>，上面两个配置都是有效的，而且作用相同。这算是个 <code>ifupdown2</code> 的大 Bug，而且<a href="https://github.com/CumulusNetworks/ifupdown2/issues/174#issuecomment-796805369">开发者貌似目前完全不打算修复这个</a>（技术上重写很麻烦，但是开发者接受 PR）。</p><p>软件有问题，就只能由用户处理了。这里提供两种解，推荐选择第一种。</p><h2 id="post-up-hooks"><a href="#post-up-hooks" class="headerlink" title="post-up hooks"></a>post-up hooks</h2><p>这是第一种解法：添加 post-up hooks。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">iface vmbr0 inet manual<br>        address 172.20.2.1/22<br>        gateway 172.20.0.20<br>        post-up dhclient -6 -v -pf /run/dhclient6.$IFACE.pid -lf /var/lib/dhclient6/$IFACE.leases -I $IFACE<br></code></pre></td></tr></table></figure><p>照抄 post-up 这一行</p><h2 id="ifupdown"><a href="#ifupdown" class="headerlink" title="ifupdown"></a>ifupdown</h2><p>这是第二种解法：切换到 <code>ifupdown</code>。</p><div class="alert warning"><p>不推荐。仅当完全不需要 <code>ifupdown2</code> 的功能时才使用此方法。安装 <code>ifupdown</code> 会自动卸载 <code>ifupdown2</code></p></div><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">apt install ifupdown<br></code></pre></td></tr></table></figure>]]></content>
     
     
     <summary type="html">&lt;p&gt;Proxmox 默认配置中无法动态获取 IPv6 问题的原因分析和解决方案&lt;/p&gt;</summary>
@@ -128,9 +230,9 @@
     
     <category term="Linux" scheme="https://www.libmbr.com/tags/Linux/"/>
     
-    <category term="IPv6" scheme="https://www.libmbr.com/tags/IPv6/"/>
-    
     <category term="虚拟机" scheme="https://www.libmbr.com/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+    <category term="IPv6" scheme="https://www.libmbr.com/tags/IPv6/"/>
     
     <category term="PVE" scheme="https://www.libmbr.com/tags/PVE/"/>
     
@@ -441,112 +543,6 @@
     <category term="Linux" scheme="https://www.libmbr.com/tags/Linux/"/>
     
     <category term="Hyper-V" scheme="https://www.libmbr.com/tags/Hyper-V/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>为 Hyper-V 上的 Linux VM 配置 3D 加速</title>
-    <link href="https://www.libmbr.com/archives/493/"/>
-    <id>https://www.libmbr.com/archives/493/</id>
-    <published>2023-08-01T00:00:00.000Z</published>
-    <updated>2023-08-01T00:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>WSL2 默认已经使用了 GPU 半虚拟化（GPU-PV）来进行 3D 加速，GPU-PV 是 RemoteFX 的替代品，但是 GPU-PV 在 Hyper-V 虚拟机启用却比较复杂，Windows 的教程已经有人写了，所以分享下 Hyper-V Linux 虚拟机配置 GPU-PV 的教程  </p><span id="more"></span><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><ul><li>一个 Hyper-V Linux 虚拟机，内核版本是 5.15 或 6.0 或 6.1，内核头已安装</li><li>一个 WSL 2 虚拟机（提取驱动用，提取后可删除，尽量和 Hyper-V 虚拟机使用相同的操作系统）</li><li>Windows 10 最新版本或 Windows 11，x86&#x2F;x86-64 架构（似乎 ARM 做不到，我没测试）</li></ul><h2 id="测试环境"><a href="#测试环境" class="headerlink" title="测试环境"></a>测试环境</h2><p>我会使用我喜欢的环境进行测试，如果你正在使用相同的环境，应该可以直接照抄我的命令，如果你正在使用其他发行版或其他硬件，操作步骤可能会有差别  </p><ul><li>Windows 11 22H2</li><li>Arch Linux VM，内核：<a href="https://archlinux.org/packages/core/x86_64/linux-lts/">linux-lts</a></li><li>NVIDIA GeForce RTX 4070 Ti</li></ul><h2 id="HV-虚拟机设置"><a href="#HV-虚拟机设置" class="headerlink" title="HV 虚拟机设置"></a>HV 虚拟机设置</h2><h3 id="1-关闭动态内存"><a href="#1-关闭动态内存" class="headerlink" title="1 - 关闭动态内存"></a>1 - 关闭动态内存</h3><p>开启动态内存后，GPU-PV 不能正常工作，所以直接为虚拟机设置足够的内存和 swap 并禁用动态内存，这一步骤应该比较简单<br><img src="https://lfs.libmbr.com/assets/2023/08/26/db886f0e-130b-4ada-bba5-e296e17b66f0.png" alt="Disable dynamic memory hyperv"></p><h3 id="2-添加-GPU-PV-硬件"><a href="#2-添加-GPU-PV-硬件" class="headerlink" title="2 - 添加 GPU-PV 硬件"></a>2 - 添加 GPU-PV 硬件</h3><p>首先确保虚拟机<strong>已关机</strong>，然后按下 Win+X（或右键开始菜单），选择任意一个：  </p><ul><li>命令提示符（管理员）</li><li>PowerShell（管理员）</li><li>终端（管理员）<br><img src="https://lfs.libmbr.com/assets/2023/08/26/810d8ea7-4b55-45d5-adae-cec8c84c70ed.png" alt="terminal admin"></li></ul><p>在弹出的窗口中输入这三行命令，每一行结束后，都请按 Enter 键</p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">pwsh</li></ul></figcaption><div class="tabs-content"><figure class="highlight pwsh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">pwsh</span><br><span class="line"><span class="built_in">Set-VM</span> <span class="literal">-VMName</span> &lt;vmname&gt; <span class="literal">-GuestControlledCacheTypes</span> <span class="variable">$true</span> <span class="literal">-LowMemoryMappedIoSpace</span> <span class="number">1</span>GB <span class="literal">-HighMemoryMappedIoSpace</span> <span class="number">32</span>GB</span><br><span class="line"><span class="built_in">Add-VMGpuPartitionAdapter</span> <span class="literal">-VMName</span> &lt;vmname&gt;</span><br></pre></td></tr></tbody></table></figure></div></figure><p>其中 <code>&lt;vmname&gt;</code> 替换为你虚拟机的名称。  </p><p>完成此步骤后，打开虚拟机并执行 <code>lspci</code> 命令，检查 GPU-PV 设备是否已经成功安装  </p><p>如果输出中包含 <code>b98b:00:00.0 3D controller: Microsoft Corporation Basic Render Driver</code>，则说明已正确安装设备  </p><h2 id="驱动安装"><a href="#驱动安装" class="headerlink" title="驱动安装"></a>驱动安装</h2><h3 id="3-WSL-驱动"><a href="#3-WSL-驱动" class="headerlink" title="3 - WSL 驱动"></a>3 - WSL 驱动</h3><p>进入 WSL 的终端，运行命令：  </p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tar -cvf - /usr/lib/wsl | zstd -T0 &gt; drivers.tzst</span><br></pre></td></tr></tbody></table></figure></div></figure><p>将 drivers.tzst 拷贝至 Hyper-V 虚拟机根目录（使用任何你喜欢的方式），然后解压：</p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">unzstd drivers.tzst</span><br><span class="line">tar xvf drivers.tar</span><br></pre></td></tr></tbody></table></figure></div></figure><p>然后复制驱动到 &#x2F;lib：</p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cp</span> /usr/lib/wsl/lib/* /usr/lib</span><br></pre></td></tr></tbody></table></figure></div></figure><p>如果是 NVIDIA 显卡，还需要额外安装 <code>nvidia-smi</code>：</p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cp</span> /usr/lib/wsl/lib/nvidia-smi /usr/bin</span><br></pre></td></tr></tbody></table></figure></div></figure><h3 id="4-安装-DirectX-驱动"><a href="#4-安装-DirectX-驱动" class="headerlink" title="4 - 安装 DirectX 驱动"></a>4 - 安装 DirectX 驱动</h3><p>GPU-PV Linux 使用的 DirectX 驱动名为 <code>dxgkrnl</code>，直接使用 makepkg 进行安装：</p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /tmp</span><br><span class="line">git <span class="built_in">clone</span> https://github.com/MBRjun/dxgkrnl-dkms-lts</span><br><span class="line"><span class="built_in">cd</span> dxgkrnl-dkms-lts</span><br><span class="line">makepkg -si</span><br><span class="line">modprobe dxgkrnl</span><br></pre></td></tr></tbody></table></figure></div></figure><ul><li><strong>仅适用于 6.0 或 6.1 内核，如果是 5.15 内核，可以直接尝试 <code>yay -Sy dxgkrnl-dkms-git</code> 其他内核你需要自己搬<a href="https://github.com/microsoft/WSL2-Linux-Kernel/">驱动</a></strong></li></ul><h3 id="5-安装-mesa"><a href="#5-安装-mesa" class="headerlink" title="5 - 安装 mesa"></a>5 - 安装 mesa</h3><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pacman -Sy mesa mesa-utils</span><br></pre></td></tr></tbody></table></figure></div></figure><h3 id="6-检查是否成功安装"><a href="#6-检查是否成功安装" class="headerlink" title="6 - 检查是否成功安装"></a>6 - 检查是否成功安装</h3><p>完成上面五个步骤，<strong>需要先重启系统</strong>  </p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">ls</span> /dev/dxg -l</span><br><span class="line">lspci -v</span><br></pre></td></tr></tbody></table></figure></div></figure><p>如果 <code>/dev/dxg</code> 存在，则 DX 驱动已正常安装  </p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">txt</li></ul></figcaption><div class="tabs-content"><figure class="highlight txt" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">crw-rw-rw- 1 root root 10, 119 Aug 26 18:24 /dev/dxg</span><br><span class="line">b98b:00:00.0 3D controller: Microsoft Corporation Basic Render Driver</span><br><span class="line">Physical Slot: 600853645</span><br><span class="line">Flags: bus master, fast devsel, latency 0, NUMA node 0</span><br><span class="line">Capabilities: [40] Null</span><br><span class="line">Kernel driver in use: dxgkrnl</span><br><span class="line">Kernel modules: dxgkrnl</span><br></pre></td></tr></tbody></table></figure></div></figure><h3 id="7-检查-NVIDIA-显卡信息和-CUDA-信息"><a href="#7-检查-NVIDIA-显卡信息和-CUDA-信息" class="headerlink" title="7 - 检查 NVIDIA 显卡信息和 CUDA 信息"></a>7 - 检查 NVIDIA 显卡信息和 CUDA 信息</h3><p>运行 <code>nvidia-smi</code>：  </p><p><img src="https://lfs.libmbr.com/assets/2023/08/26/e59844c1-dba9-43f3-8fa4-af42c07ae3dd.webp" alt="nvidia-smi"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;WSL2 默认已经使用了 GPU 半虚拟化（GPU-PV）来进行 3D 加速，GPU-PV 是 RemoteFX 的替代品，但是 GPU-PV 在 Hyper-V 虚拟机启用却比较复杂，Windows 的教程已经有人写了，所以分享下 Hyper-V Linux 虚拟机配置 GPU-PV 的教程  &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="教程" scheme="https://www.libmbr.com/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Hyper-V" scheme="https://www.libmbr.com/tags/Hyper-V/"/>
-    
-    <category term="Hypervisor" scheme="https://www.libmbr.com/tags/Hypervisor/"/>
-    
-    <category term="GPU-PV" scheme="https://www.libmbr.com/tags/GPU-PV/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>解决 AIDA64 报错 Hypervisor is present</title>
-    <link href="https://www.libmbr.com/archives/492/"/>
-    <id>https://www.libmbr.com/archives/492/</id>
-    <published>2023-07-04T00:00:00.000Z</published>
-    <updated>2023-07-04T00:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>解决 AIDA64 测试性能时警告：Hypervisor is present, forcing AIDA64 into a virtualized or sandbox environment. Such enviro nment may affect AIDA64 benchmark results. It is recommended to disable both Hyper-V and Memory Integrity in order to obtain accurate benchmark results.</p><span id="more"></span><p><img src="https://lfs.libmbr.com/assets/2023/08/08/a31d9f0a-1147-4483-80cb-0a239f28943a.png" alt="Hypervisor is present"></p><h2 id="问题出现的原因"><a href="#问题出现的原因" class="headerlink" title="问题出现的原因"></a>问题出现的原因</h2><p>Windows 11 22H2 版本，新安装的 Windows 默认开启了内存完整性，这个功能有助于提高安全性，但是也可能降低性能  </p><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>Win+S 输入 gpedit 回车（家庭版需要先<a href="https://zhuanlan.zhihu.com/p/565402268">启用组策略</a>）  </p><p><img src="https://lfs.libmbr.com/assets/2023/08/08/c88839d0-1516-4fc8-8448-21d0f3d44ee9.png" alt="gpedit"></p><p>打开 <strong>计算机配置-管理模板-系统-Device Guard</strong>，找到启用基于虚拟化的安全，双击点开  </p><p><img src="https://lfs.libmbr.com/assets/2023/08/08/3a24d008-a4b6-48bd-9b14-669511b8ca19.png" alt="VBS"></p><p>点击已禁用，保存  </p><p><img src="https://lfs.libmbr.com/assets/2023/08/08/34d6c4b3-f31c-4ea3-8772-4b5680ceecda.png" alt="disable vbs"></p><p>重启电脑即可正常跑分  </p><p><img src="https://lfs.libmbr.com/assets/2023/08/08/3e3f163f-0a87-4e98-8ae1-1c8593c6a47c.png" alt="aida64 ram benchmark"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;解决 AIDA64 测试性能时警告：Hypervisor is present, forcing AIDA64 into a virtualized or sandbox environment. Such enviro nment may affect AIDA64 benchmark results. It is recommended to disable both Hyper-V and Memory Integrity in order to obtain accurate benchmark results.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="软件" scheme="https://www.libmbr.com/categories/%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Windows" scheme="https://www.libmbr.com/tags/Windows/"/>
-    
-    <category term="AIDA64" scheme="https://www.libmbr.com/tags/AIDA64/"/>
-    
-    <category term="Hypervisor" scheme="https://www.libmbr.com/tags/Hypervisor/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>手动修复 Windows UEFI BCD</title>
-    <link href="https://www.libmbr.com/archives/491/"/>
-    <id>https://www.libmbr.com/archives/491/</id>
-    <published>2023-07-03T00:00:00.000Z</published>
-    <updated>2023-07-03T00:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>简单解决使用 DISM 或其他工具释放 Windows 镜像后没有引导项的问题  </p><span id="more"></span><hr><p>看文章前先搞懂这个缩写：</p><ul><li>ESP：EFI system partition，EFI 系统分区，GUID 为 <code>C12A7328-F81F-11D2-BA4B-00A0C93EC93B</code></li></ul><hr><ul><li>首先要确认下你的主板是支持 UEFI 启动的，点进来看这文章的这条应该都符合了  <ul><li>如果你使用 OpenCore <strong>模拟</strong> UEFI，这篇文章有可能不太适合你</li></ul></li><li>然后确认下你要把 BCD 存在哪个 ESP 分区，没有 ESP 分区要创建一个，还要把 BootMgr 补上  <ul><li>这一小段的操作使用任意分区工具都可以  </li><li>一般情况 <code>diskpart.exe</code> 都会显示 ESP 分区类型是 <code>System</code>，少数会是 <code>Primary</code> 或其他类型<br>  <img src="https://lfs.libmbr.com/assets/2023/08/08/33accb46-4dad-4fe5-8d08-c447df3ee370.png" alt="ESP Part">  </li><li>创建的话建议 FAT 或者 FAT32 文件系统，兼容性好，当然如果你的板子支持 NTFS，你可以直接把 (C:) 盘当作 ESP  </li><li>给你的 EFI 分区分配个驱动器号（盘符）或者挂载一下</li></ul></li></ul><p>最后运行下这条命令即可：<br><code>bcdboot C:\Windows /s Z: /f UEFI</code></p><ul><li>C: 是你 Windows 的安装分区（多系统就选你想启动的那个）  </li><li>Z: 是指定 ESP 分区，也就是“你想把 EFI 放到哪个分区”</li></ul>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;简单解决使用 DISM 或其他工具释放 Windows 镜像后没有引导项的问题  &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="操作系统" scheme="https://www.libmbr.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
-    
-    <category term="Windows" scheme="https://www.libmbr.com/tags/Windows/"/>
-    
-    <category term="UEFI" scheme="https://www.libmbr.com/tags/UEFI/"/>
-    
-    <category term="bootmgr" scheme="https://www.libmbr.com/tags/bootmgr/"/>
-    
-    <category term="bcd" scheme="https://www.libmbr.com/tags/bcd/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>RTL8168 升级使用 PVE 8.0</title>
-    <link href="https://www.libmbr.com/archives/490/"/>
-    <id>https://www.libmbr.com/archives/490/</id>
-    <published>2023-06-27T16:42:50.000Z</published>
-    <updated>2023-06-27T16:42:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>PVE 8.0 使用了新的 Linux 6.2 内核，但该内核版本也会使 RTL8168 网卡无法正常工作，需要降级内核版本才能使用</p><span id="more"></span><blockquote><p>建议大家远离 RTL 8168 网卡，他不仅被 ESXi 7&#x2F;8 所遗忘，如果对面是一个 Intel 的 I225-LM 网卡，更会直接自闭（无法自动协商），现在，他甚至被 <code>pve-kernel-6.2</code> 抛弃  </p></blockquote><p><a href="/archives/489/">先按照常规方法升级</a>，然后确认下你的网卡型号，按下面的步骤降级内核  </p><h2 id="确认网卡型号"><a href="#确认网卡型号" class="headerlink" title="确认网卡型号"></a>确认网卡型号</h2><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lspci | grep Ethernet</span><br></pre></td></tr></tbody></table></figure></div></figure><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">txt</li></ul></figcaption><div class="tabs-content"><figure class="highlight txt" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">02:00.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 15)</span><br></pre></td></tr></tbody></table></figure></div></figure><p>如果看到类似这样的输出，有 <code>RTL8111/8168/8411</code> 关键字，那就恭喜中奖，<strong>你正在使用 RTL 8168 网卡！</strong></p><h2 id="降级到-6-1-内核"><a href="#降级到-6-1-内核" class="headerlink" title="降级到 6.1 内核"></a>降级到 6.1 内核</h2><p>其实也不是必须用 6.1，降级到一个你认为稳定的也可以（我是不推荐 5.13 和 6.2），比如 5.15 和 5.19，但是我测试 6.1 是稳定的而且较新的 LTS  </p><p>然后就是注意别装成 Debian 原版内核了，我们要装的是 Proxmox VE 修改的内核</p><p>除了内核本体外还建议装下 kernel header  </p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt install pve-kernel-6.1 pve-header-6.1</span><br></pre></td></tr></tbody></table></figure></div></figure><p>然后就可以使用自带的 <code>proxmox-boot-tool</code> 调内核优先级了</p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">proxmox-boot-tool kernel list</span><br></pre></td></tr></tbody></table></figure></div></figure><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">txt</li></ul></figcaption><div class="tabs-content"><figure class="highlight txt" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">Manually selected kernels:</span><br><span class="line">None.</span><br><span class="line"></span><br><span class="line">Automatically selected kernels:</span><br><span class="line">6.1.10-1-pve</span><br><span class="line">6.2.16-3-pve</span><br></pre></td></tr></tbody></table></figure></div></figure><p>将 6.1 内核优先级调最高，以我现在的 6.1.10-1 为例：</p><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">sh</li></ul></figcaption><div class="tabs-content"><figure class="highlight sh" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">proxmox-boot-tool kernel pin 6.1.10-1-pve</span><br></pre></td></tr></tbody></table></figure></div></figure><figure class="codeblock codeblock--tabbed"><figcaption><ul class="tabs"><li class="tab active">txt</li></ul></figcaption><div class="tabs-content"><figure class="highlight txt" style="display: block;"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">Setting '6.1.10-1-pve' as grub default entry and running update-grub.</span><br><span class="line">Generating grub configuration file ...</span><br><span class="line">Found linux image: /boot/vmlinuz-6.2.16-3-pve</span><br><span class="line">Found initrd image: /boot/initrd.img-6.2.16-3-pve</span><br><span class="line">Found linux image: /boot/vmlinuz-6.1.10-1-pve</span><br><span class="line">Found initrd image: /boot/initrd.img-6.1.10-1-pve</span><br><span class="line">Found memtest86+ 64bit EFI image: /boot/memtest86+x64.efi</span><br><span class="line">Adding boot menu entry for UEFI Firmware Settings ...</span><br><span class="line">done</span><br><span class="line"></span><br><span class="line">Manually selected kernels:</span><br><span class="line">None.</span><br><span class="line"></span><br><span class="line">Automatically selected kernels:</span><br><span class="line">6.1.10-1-pve</span><br><span class="line">6.2.16-3-pve</span><br><span class="line"></span><br><span class="line">Pinned kernel:</span><br><span class="line">6.1.10-1-pve</span><br></pre></td></tr></tbody></table></figure></div></figure><p>重启就 OK 了  </p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;PVE 8.0 使用了新的 Linux 6.2 内核，但该内核版本也会使 RTL8168 网卡无法正常工作，需要降级内核版本才能使用&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="操作系统" scheme="https://www.libmbr.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
-    
-    <category term="服务器" scheme="https://www.libmbr.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    
-    <category term="虚拟化" scheme="https://www.libmbr.com/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/"/>
-    
-    <category term="PVE" scheme="https://www.libmbr.com/tags/PVE/"/>
-    
-    <category term="Proxmox VE" scheme="https://www.libmbr.com/tags/Proxmox-VE/"/>
-    
-    <category term="RTL8168" scheme="https://www.libmbr.com/tags/RTL8168/"/>
     
   </entry>
   
